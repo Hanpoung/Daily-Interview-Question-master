@@ -15,16 +15,19 @@
      * [解析题4](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/4)
   * 第 5 题：介绍下深度优先遍历和广度优先遍历，如何实现？
      * [解析题5](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/5)
-     
-     
-     
   * 第 6 题：请分别用深度优先思想和广度优先思想实现一个拷贝函数？
   	* [解析题6](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/6)
 
-  - [第 7 题：ES5/ES6 的继承除了写法以外还有什么区别？](#%E7%AC%AC-7-%E9%A2%98es5es6-%E7%9A%84%E7%BB%A7%E6%89%BF%E9%99%A4%E4%BA%86%E5%86%99%E6%B3%95%E4%BB%A5%E5%A4%96%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
-  - [第 8 题：setTimeout、Promise、Async/Await 的区别](#%E7%AC%AC-8-%E9%A2%98settimeoutpromiseasyncawait-%E7%9A%84%E5%8C%BA%E5%88%AB)
-  - [第 9 题：Async/Await 如何通过同步的方式实现异步](#%E7%AC%AC-9-%E9%A2%98asyncawait-%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%90%8C%E6%AD%A5%E7%9A%84%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5)
-  - [第 10 题：异步笔试题](#%E7%AC%AC-10-%E9%A2%98%E5%BC%82%E6%AD%A5%E7%AC%94%E8%AF%95%E9%A2%98)
+  * 第 7 题：ES5/ES6 的继承除了写法以外还有什么区别？
+	* [解析题7](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/7)
+
+  * 第 8 题：setTimeout、Promise、Async/Await 的区别
+  	* [解析题8](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/8)
+  * 第 9 题：Async/Await 如何通过同步的方式实现异步
+  	* [解析题9](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/9)
+  * 第 10 题：异步笔试题
+  	* [解析题10](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/9)
+  
   - [第 11 题：算法手写题](#%E7%AC%AC-11-%E9%A2%98%E7%AE%97%E6%B3%95%E6%89%8B%E5%86%99%E9%A2%98)
   - [第 12 题：JS 异步解决方案的发展历程以及优缺点。](#%E7%AC%AC-12-%E9%A2%98js-%E5%BC%82%E6%AD%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B%E4%BB%A5%E5%8F%8A%E4%BC%98%E7%BC%BA%E7%82%B9)
   - [第 13 题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](#%E7%AC%AC-13-%E9%A2%98promise-%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E6%98%AF%E5%90%8C%E6%AD%A5%E6%89%A7%E8%A1%8C%E8%BF%98%E6%98%AF%E5%BC%82%E6%AD%A5%E6%89%A7%E8%A1%8C%E9%82%A3%E4%B9%88-then-%E6%96%B9%E6%B3%95%E5%91%A2)
