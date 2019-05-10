@@ -6,15 +6,15 @@
 
 
   * 第 1 题：写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？
-     * 解析[题1](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/1)
+     * [解析题1](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/1)
   * 第 2 题：`['1', '2', '3'].map(parseInt)` what & why ?
-     * 解析[题2](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/2)
+     * [解析题2](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/2)
   * 第 3 题：什么是防抖和节流？有什么区别？如何实现？
-     * 解析[题3](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/3)
+     * [解析题3](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/3)
   * 第 4 题：介绍下 Set、Map、WeakSet 和 WeakMap 的区别？
-     * 解析[题4](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/4)
+     * [解析题4](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/4)
   * 第 5 题：介绍下深度优先遍历和广度优先遍历，如何实现？
-     * 解析[题5](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/5)
+     * [解析题5](https://github.com/Hanpoung/Daily-Interview-Question-master/issues/5)
      
      
      
